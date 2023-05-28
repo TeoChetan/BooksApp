@@ -1,0 +1,107 @@
+.book {
+	margin: 50px 15px 0;
+    margin-left: 60px;
+    width: 100px;
+    box-shadow: 4px 10px 12px 10px;
+    color: rgb(153, 150, 150);
+    
+}
+
+.startPage{
+    text-align: left;
+}
+
+.sub_title{
+    background-color: rgb(231, 237, 237);
+    color: hsl(193, 4%, 43%);
+    padding-bottom: 10px;
+    height: 50%;
+    
+}
+
+h1{
+padding-top: 50px;
+padding-bottom: 20px;
+font-family:'Montserrat-Black' sans-serif;
+font-size: 3.5rem;
+line-height: 1.5;
+font-weight: 600;
+text-align: center;
+}
+.horizontal-line{
+    border: 1px solid;
+    margin: auto;
+    margin-top: 10px;
+}
+.carousel{
+    width: 40%;
+    margin: 0;
+    inline-size: 500px; 
+    display: inline;
+
+}
+
+.carousel-control-next-icon{
+    background-color: #000;
+    visibility: hidden;
+}
+.carousel-control-prev-icon{
+    background-color: #000;
+    visibility:hidden;
+}
+.carousel-indicators{
+    visibility: hidden;
+}
+h3{
+    margin-top: 100px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: black;
+    display: inline-block;
+}
+.view-books-title{
+    display: inline-block;
+    padding:20px;
+    font-size: large;
+    margin-bottom:5px ;
+}
+.books-carousel{
+    margin: 5px;
+    padding-left:40px ;
+    box-shadow: 10px 10px 5px 5px;
+}
+
+#footer{
+    background-color: hsl(41, 38%, 71%);
+    text-align: center;
+    color:hsl(193, 30%, 18%);
+    font-family: "Montserrat",sans-serif;
+    padding: 1% 0 1% 0;
+    margin: 0;
+}
+.socials{
+    padding: 0 5px;
+}
+
+.socials:hover{
+    color:hsl(193, 4%, 43%);
+}
+
+
+h2{
+    margin: 5% 0;
+}
+.lorem-text{
+    font-size: large;
+    margin-bottom: 5%;
+}
+
+.btn-register:hover{
+    background-color: hsl(41, 38%, 71%);
+    color: #000;
+    outline-color: black;
+}
+
+
+
+ 

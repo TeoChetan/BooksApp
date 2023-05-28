@@ -1,0 +1,6 @@
+.btn-register:hover{
+    background-color: hsl(41, 38%, 71%);
+    color: #000;
+    outline-color: black;
+}
+
